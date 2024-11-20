@@ -1,0 +1,20 @@
+.producto{
+    background: white;
+}
+
+.casco{
+    color: green;
+}
+
+.link{
+    color: purple;
+    text-decoration: underline;
+}
+
+.descripcion{
+    color: red;
+}
+
+#casco-bicicleta{
+    width: 500px;
+}
