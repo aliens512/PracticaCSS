@@ -18,3 +18,20 @@
 #casco-bicicleta{
     width: 500px;
 }
+
+#boxmodel{
+    background: purple;
+    color: bisque;
+    padding: 30px;
+    border: 5px double bisque;
+    margin: 10px;
+}
+
+#boxmodel2{
+    background: black;
+    color: white;
+    padding: 30px;
+    border: 5px solid gray ;
+    margin: 10px;
+}
+/* Displays */
